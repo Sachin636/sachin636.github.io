@@ -2,5 +2,5 @@
 </script>
 
 <template>
-  <h1> We doing some testing now :)</h1>
+  <h1> We doing some testing !</h1>
 </template>
