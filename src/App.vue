@@ -1,6 +1,7 @@
 <script setup>
+import PageLayout from "./layouts/AppLayout.vue"
 </script>
 
 <template>
-  <h1> We doing some testing !</h1>
+  <PageLayout />
 </template>
