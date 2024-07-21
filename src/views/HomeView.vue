@@ -3,5 +3,5 @@
 </script>
 
 <template>
-  <h1>Trying to see if this change actually applies!</h1>
+  <h1>Home Page!</h1>
 </template>
